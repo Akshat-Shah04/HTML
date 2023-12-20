@@ -1,5 +1,5 @@
 # HTML
-# Awesome E-Commerce Website
+# E-Commerce Website Template
 
 Welcome to our awesome e-commerce website project! This web application is designed to provide users with a seamless shopping experience for a variety of products, including computers, mobile devices, clothing, and furniture.
 

@@ -15,7 +15,7 @@ Welcome to our awesome e-commerce website project! This web application is desig
 
 ### Home
 - Home Page of the website.
-- ``home.html`
+- Visit `home.html` to view coded of home page
 ### Computer
 
   - HP

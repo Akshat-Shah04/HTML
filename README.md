@@ -14,7 +14,7 @@ Welcome to our awesome e-commerce website project! This web application is desig
 ## Project Structure
 
 ### Home
-- [Add description or content here]
+- Home Page of the website.
 
 ### Computer
 

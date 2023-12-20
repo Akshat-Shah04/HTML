@@ -17,7 +17,7 @@ Welcome to our awesome e-commerce website project! This web application is desig
 - [Add description or content here]
 
 ### Computer
-- [Add description or content here]
+
   - HP
   - Dell
   - Acer

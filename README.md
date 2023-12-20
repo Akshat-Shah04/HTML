@@ -12,26 +12,26 @@ Welcome to our awesome e-commerce website project! This web application is desig
   - Clothings: Men, Women, Kids.
 
 ## Project Structure
-HOME
+#HOME
 ->COMPUTER
 ->MOBILE
 ->FURNITURE
 ->CLOTHINGS
 
-CLOTHINGS
+#CLOTHINGS
 -MEN
 -WOMEN
 -KIDS
 
-FURNITURE
+#FURNITURE
 
-MOBILE
+#MOBILE
 -APPLE
 -VIVO
 -ONEPLUS
 -SAMSUNG
 
-COMPUTER
+#COMPUTER
 -LENOVO
 -HP
 -DELL
